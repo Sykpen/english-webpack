@@ -14,10 +14,6 @@
   },
   "author": "Netizen",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Net-zen/webpack-boilerplate.git"
-  },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
